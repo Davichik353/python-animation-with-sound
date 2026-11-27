@@ -1,0 +1,4527 @@
+{
+  "scenes": {
+    "heart": "Сердце у окна",
+    "umbrella": "Зонт под дождём",
+    "window": "Снег за окном",
+    "rain": "Один под дождём",
+    "cinema": "Кинотеатр",
+    "sunset": "Закат",
+    "walk": "Шаги навстречу",
+    "hills": "На разных холмах",
+    "water": "Под водой",
+    "hands": "Прикосновение",
+    "bench": "Ожидание у фонаря",
+    "autumn": "Осень",
+    "snow": "Зима",
+    "blue": "Вечер",
+    "blossom": "Возвращение весной",
+    "together": "Вместе",
+    "credits": "Финальная заставка"
+  },
+  "captions": [
+    {
+      "start": 11,
+      "end": 61,
+      "text": "Может быть, я не умею любить,"
+    },
+    {
+      "start": 65,
+      "end": 92,
+      "text": "дарить заботу,"
+    },
+    {
+      "start": 95,
+      "end": 174,
+      "text": "тепло, как это делают все,"
+    },
+    {
+      "start": 177,
+      "end": 234,
+      "text": "но я такой, какой я есть."
+    },
+    {
+      "start": 239,
+      "end": 299,
+      "text": "Да, не идеальный парень из фильма,"
+    },
+    {
+      "start": 304,
+      "end": 362,
+      "text": "но зато живой и настоящий."
+    },
+    {
+      "start": 372,
+      "end": 420,
+      "text": "И я знаю точно,"
+    },
+    {
+      "start": 425,
+      "end": 465,
+      "text": "что ты мне нужна."
+    },
+    {
+      "start": 469,
+      "end": 508,
+      "text": "Нужна как кислород,"
+    },
+    {
+      "start": 514,
+      "end": 600,
+      "text": "без которого жить просто невозможно."
+    },
+    {
+      "start": 619,
+      "end": 682,
+      "text": "И если мне потребуется ждать тебя,"
+    },
+    {
+      "start": 687,
+      "end": 744,
+      "text": "я готов ждать столько,"
+    },
+    {
+      "start": 747,
+      "end": 791,
+      "text": "сколько потребуется."
+    }
+  ],
+  "poses": [
+    {
+      "scene": "heart",
+      "frame": 0,
+      "background": "drawings/heart/000_background.png",
+      "layers": {}
+    },
+    {
+      "scene": "heart",
+      "frame": 4,
+      "background": "drawings/heart/004_background.png",
+      "layers": {
+        "hero": {
+          "png": "drawings/heart/004_hero.png",
+          "box": [
+            262,
+            80,
+            136,
+            256
+          ]
+        }
+      }
+    },
+    {
+      "scene": "heart",
+      "frame": 8,
+      "background": "drawings/heart/008_background.png",
+      "layers": {
+        "hero": {
+          "png": "drawings/heart/008_hero.png",
+          "box": [
+            262,
+            80,
+            136,
+            256
+          ]
+        }
+      }
+    },
+    {
+      "scene": "heart",
+      "frame": 12,
+      "background": "drawings/heart/012_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/heart/012_caption.png",
+          "box": [
+            150,
+            316,
+            340,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/heart/012_hero.png",
+          "box": [
+            262,
+            80,
+            136,
+            256
+          ]
+        }
+      }
+    },
+    {
+      "scene": "heart",
+      "frame": 15,
+      "background": "drawings/heart/015_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/heart/015_caption.png",
+          "box": [
+            150,
+            316,
+            340,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/heart/015_hero.png",
+          "box": [
+            262,
+            80,
+            136,
+            256
+          ]
+        }
+      }
+    },
+    {
+      "scene": "heart",
+      "frame": 24,
+      "background": "drawings/heart/024_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/heart/024_caption.png",
+          "box": [
+            150,
+            316,
+            340,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/heart/024_hero.png",
+          "box": [
+            262,
+            80,
+            136,
+            256
+          ]
+        }
+      }
+    },
+    {
+      "scene": "heart",
+      "frame": 30,
+      "background": "drawings/heart/030_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/heart/030_caption.png",
+          "box": [
+            150,
+            316,
+            340,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/heart/030_hero.png",
+          "box": [
+            262,
+            80,
+            136,
+            256
+          ]
+        }
+      }
+    },
+    {
+      "scene": "heart",
+      "frame": 33,
+      "background": "drawings/heart/033_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/heart/033_caption.png",
+          "box": [
+            150,
+            316,
+            340,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/heart/033_hero.png",
+          "box": [
+            262,
+            80,
+            136,
+            256
+          ]
+        }
+      }
+    },
+    {
+      "scene": "heart",
+      "frame": 41,
+      "background": "drawings/heart/041_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/heart/041_caption.png",
+          "box": [
+            150,
+            316,
+            340,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/heart/041_hero.png",
+          "box": [
+            262,
+            80,
+            136,
+            256
+          ]
+        }
+      }
+    },
+    {
+      "scene": "heart",
+      "frame": 43,
+      "background": "drawings/heart/043_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/heart/043_caption.png",
+          "box": [
+            150,
+            316,
+            340,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/heart/043_hero.png",
+          "box": [
+            262,
+            80,
+            136,
+            256
+          ]
+        }
+      }
+    },
+    {
+      "scene": "heart",
+      "frame": 45,
+      "background": "drawings/heart/045_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/heart/045_caption.png",
+          "box": [
+            150,
+            316,
+            340,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/heart/045_hero.png",
+          "box": [
+            262,
+            80,
+            136,
+            256
+          ]
+        }
+      }
+    },
+    {
+      "scene": "heart",
+      "frame": 47,
+      "background": "drawings/heart/047_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/heart/047_caption.png",
+          "box": [
+            150,
+            316,
+            340,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/heart/047_hero.png",
+          "box": [
+            262,
+            80,
+            136,
+            256
+          ]
+        }
+      }
+    },
+    {
+      "scene": "heart",
+      "frame": 49,
+      "background": "drawings/heart/049_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/heart/049_caption.png",
+          "box": [
+            150,
+            316,
+            340,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/heart/049_hero.png",
+          "box": [
+            262,
+            80,
+            136,
+            256
+          ]
+        }
+      }
+    },
+    {
+      "scene": "heart",
+      "frame": 52,
+      "background": "drawings/heart/052_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/heart/052_caption.png",
+          "box": [
+            150,
+            316,
+            340,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/heart/052_hero.png",
+          "box": [
+            262,
+            80,
+            136,
+            256
+          ]
+        }
+      }
+    },
+    {
+      "scene": "heart",
+      "frame": 55,
+      "background": "drawings/heart/055_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/heart/055_caption.png",
+          "box": [
+            150,
+            316,
+            340,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/heart/055_hero.png",
+          "box": [
+            262,
+            80,
+            136,
+            256
+          ]
+        }
+      }
+    },
+    {
+      "scene": "heart",
+      "frame": 58,
+      "background": "drawings/heart/058_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/heart/058_caption.png",
+          "box": [
+            150,
+            316,
+            340,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/heart/058_hero.png",
+          "box": [
+            262,
+            80,
+            136,
+            256
+          ]
+        }
+      }
+    },
+    {
+      "scene": "umbrella",
+      "frame": 64,
+      "background": "drawings/umbrella/064_background.png",
+      "layers": {
+        "umbrella": {
+          "png": "drawings/umbrella/064_umbrella.png",
+          "box": [
+            244,
+            0,
+            174,
+            110
+          ]
+        },
+        "partner": {
+          "png": "drawings/umbrella/064_partner.png",
+          "box": [
+            334,
+            88,
+            56,
+            246
+          ]
+        },
+        "hero": {
+          "png": "drawings/umbrella/064_hero.png",
+          "box": [
+            248,
+            82,
+            94,
+            252
+          ]
+        }
+      }
+    },
+    {
+      "scene": "umbrella",
+      "frame": 66,
+      "background": "drawings/umbrella/066_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/umbrella/066_caption.png",
+          "box": [
+            236,
+            316,
+            168,
+            28
+          ]
+        },
+        "umbrella": {
+          "png": "drawings/umbrella/066_umbrella.png",
+          "box": [
+            244,
+            0,
+            174,
+            110
+          ]
+        },
+        "partner": {
+          "png": "drawings/umbrella/066_partner.png",
+          "box": [
+            334,
+            88,
+            56,
+            246
+          ]
+        },
+        "hero": {
+          "png": "drawings/umbrella/066_hero.png",
+          "box": [
+            248,
+            82,
+            94,
+            252
+          ]
+        }
+      }
+    },
+    {
+      "scene": "umbrella",
+      "frame": 69,
+      "background": "drawings/umbrella/069_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/umbrella/069_caption.png",
+          "box": [
+            236,
+            316,
+            168,
+            28
+          ]
+        },
+        "umbrella": {
+          "png": "drawings/umbrella/069_umbrella.png",
+          "box": [
+            244,
+            0,
+            174,
+            110
+          ]
+        },
+        "partner": {
+          "png": "drawings/umbrella/069_partner.png",
+          "box": [
+            334,
+            88,
+            56,
+            246
+          ]
+        },
+        "hero": {
+          "png": "drawings/umbrella/069_hero.png",
+          "box": [
+            248,
+            82,
+            94,
+            252
+          ]
+        }
+      }
+    },
+    {
+      "scene": "umbrella",
+      "frame": 72,
+      "background": "drawings/umbrella/072_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/umbrella/072_caption.png",
+          "box": [
+            236,
+            316,
+            168,
+            28
+          ]
+        },
+        "umbrella": {
+          "png": "drawings/umbrella/072_umbrella.png",
+          "box": [
+            244,
+            0,
+            174,
+            110
+          ]
+        },
+        "partner": {
+          "png": "drawings/umbrella/072_partner.png",
+          "box": [
+            334,
+            88,
+            56,
+            246
+          ]
+        },
+        "hero": {
+          "png": "drawings/umbrella/072_hero.png",
+          "box": [
+            248,
+            82,
+            94,
+            252
+          ]
+        }
+      }
+    },
+    {
+      "scene": "umbrella",
+      "frame": 75,
+      "background": "drawings/umbrella/075_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/umbrella/075_caption.png",
+          "box": [
+            236,
+            316,
+            168,
+            28
+          ]
+        },
+        "umbrella": {
+          "png": "drawings/umbrella/075_umbrella.png",
+          "box": [
+            244,
+            0,
+            174,
+            110
+          ]
+        },
+        "partner": {
+          "png": "drawings/umbrella/075_partner.png",
+          "box": [
+            334,
+            88,
+            56,
+            246
+          ]
+        },
+        "hero": {
+          "png": "drawings/umbrella/075_hero.png",
+          "box": [
+            248,
+            82,
+            94,
+            252
+          ]
+        }
+      }
+    },
+    {
+      "scene": "umbrella",
+      "frame": 79,
+      "background": "drawings/umbrella/079_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/umbrella/079_caption.png",
+          "box": [
+            236,
+            316,
+            168,
+            28
+          ]
+        },
+        "umbrella": {
+          "png": "drawings/umbrella/079_umbrella.png",
+          "box": [
+            244,
+            0,
+            174,
+            110
+          ]
+        },
+        "partner": {
+          "png": "drawings/umbrella/079_partner.png",
+          "box": [
+            334,
+            88,
+            56,
+            246
+          ]
+        },
+        "hero": {
+          "png": "drawings/umbrella/079_hero.png",
+          "box": [
+            248,
+            82,
+            94,
+            252
+          ]
+        }
+      }
+    },
+    {
+      "scene": "umbrella",
+      "frame": 87,
+      "background": "drawings/umbrella/087_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/umbrella/087_caption.png",
+          "box": [
+            236,
+            316,
+            168,
+            28
+          ]
+        },
+        "umbrella": {
+          "png": "drawings/umbrella/087_umbrella.png",
+          "box": [
+            244,
+            0,
+            174,
+            110
+          ]
+        },
+        "partner": {
+          "png": "drawings/umbrella/087_partner.png",
+          "box": [
+            334,
+            88,
+            56,
+            246
+          ]
+        },
+        "hero": {
+          "png": "drawings/umbrella/087_hero.png",
+          "box": [
+            248,
+            82,
+            94,
+            252
+          ]
+        }
+      }
+    },
+    {
+      "scene": "umbrella",
+      "frame": 88,
+      "background": "drawings/umbrella/088_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/umbrella/088_caption.png",
+          "box": [
+            236,
+            316,
+            168,
+            28
+          ]
+        },
+        "umbrella": {
+          "png": "drawings/umbrella/088_umbrella.png",
+          "box": [
+            244,
+            0,
+            174,
+            110
+          ]
+        },
+        "partner": {
+          "png": "drawings/umbrella/088_partner.png",
+          "box": [
+            334,
+            88,
+            56,
+            246
+          ]
+        },
+        "hero": {
+          "png": "drawings/umbrella/088_hero.png",
+          "box": [
+            248,
+            82,
+            94,
+            252
+          ]
+        }
+      }
+    },
+    {
+      "scene": "window",
+      "frame": 94,
+      "background": "drawings/window/094_background.png",
+      "layers": {
+        "hero": {
+          "png": "drawings/window/094_hero.png",
+          "box": [
+            108,
+            72,
+            86,
+            282
+          ]
+        }
+      }
+    },
+    {
+      "scene": "window",
+      "frame": 96,
+      "background": "drawings/window/096_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/window/096_caption.png",
+          "box": [
+            176,
+            316,
+            288,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/window/096_hero.png",
+          "box": [
+            108,
+            72,
+            86,
+            282
+          ]
+        }
+      }
+    },
+    {
+      "scene": "window",
+      "frame": 99,
+      "background": "drawings/window/099_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/window/099_caption.png",
+          "box": [
+            176,
+            316,
+            288,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/window/099_hero.png",
+          "box": [
+            107,
+            72,
+            86,
+            282
+          ]
+        }
+      }
+    },
+    {
+      "scene": "window",
+      "frame": 108,
+      "background": "drawings/window/108_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/window/108_caption.png",
+          "box": [
+            176,
+            316,
+            288,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/window/108_hero.png",
+          "box": [
+            107,
+            72,
+            86,
+            282
+          ]
+        }
+      }
+    },
+    {
+      "scene": "window",
+      "frame": 121,
+      "background": "drawings/window/121_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/window/121_caption.png",
+          "box": [
+            176,
+            316,
+            288,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/window/121_hero.png",
+          "box": [
+            105,
+            72,
+            86,
+            282
+          ]
+        }
+      }
+    },
+    {
+      "scene": "window",
+      "frame": 135,
+      "background": "drawings/window/135_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/window/135_caption.png",
+          "box": [
+            176,
+            316,
+            288,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/window/135_hero.png",
+          "box": [
+            104,
+            72,
+            86,
+            282
+          ]
+        }
+      }
+    },
+    {
+      "scene": "window",
+      "frame": 155,
+      "background": "drawings/window/155_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/window/155_caption.png",
+          "box": [
+            176,
+            316,
+            288,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/window/155_hero.png",
+          "box": [
+            101,
+            72,
+            86,
+            282
+          ]
+        }
+      }
+    },
+    {
+      "scene": "window",
+      "frame": 169,
+      "background": "drawings/window/169_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/window/169_caption.png",
+          "box": [
+            176,
+            316,
+            288,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/window/169_hero.png",
+          "box": [
+            100,
+            72,
+            86,
+            282
+          ]
+        }
+      }
+    },
+    {
+      "scene": "rain",
+      "frame": 176,
+      "background": "drawings/rain/176_background.png",
+      "layers": {
+        "hero": {
+          "png": "drawings/rain/176_hero.png",
+          "box": [
+            292,
+            72,
+            78,
+            266
+          ]
+        }
+      }
+    },
+    {
+      "scene": "rain",
+      "frame": 178,
+      "background": "drawings/rain/178_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/rain/178_caption.png",
+          "box": [
+            190,
+            316,
+            260,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/rain/178_hero.png",
+          "box": [
+            292,
+            72,
+            78,
+            266
+          ]
+        }
+      }
+    },
+    {
+      "scene": "rain",
+      "frame": 180,
+      "background": "drawings/rain/180_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/rain/180_caption.png",
+          "box": [
+            190,
+            316,
+            260,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/rain/180_hero.png",
+          "box": [
+            292,
+            72,
+            78,
+            266
+          ]
+        }
+      }
+    },
+    {
+      "scene": "rain",
+      "frame": 196,
+      "background": "drawings/rain/196_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/rain/196_caption.png",
+          "box": [
+            190,
+            316,
+            260,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/rain/196_hero.png",
+          "box": [
+            292,
+            72,
+            78,
+            266
+          ]
+        }
+      }
+    },
+    {
+      "scene": "rain",
+      "frame": 217,
+      "background": "drawings/rain/217_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/rain/217_caption.png",
+          "box": [
+            190,
+            316,
+            260,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/rain/217_hero.png",
+          "box": [
+            292,
+            72,
+            78,
+            266
+          ]
+        }
+      }
+    },
+    {
+      "scene": "rain",
+      "frame": 231,
+      "background": "drawings/rain/231_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/rain/231_caption.png",
+          "box": [
+            190,
+            316,
+            260,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/rain/231_hero.png",
+          "box": [
+            292,
+            72,
+            78,
+            266
+          ]
+        }
+      }
+    },
+    {
+      "scene": "cinema",
+      "frame": 237,
+      "background": "drawings/cinema/237_background.png",
+      "layers": {
+        "screen": {
+          "png": "drawings/cinema/237_screen.png",
+          "box": [
+            248,
+            52,
+            150,
+            164
+          ]
+        },
+        "hero": {
+          "png": "drawings/cinema/237_hero.png",
+          "box": [
+            314,
+            248,
+            74,
+            98
+          ]
+        }
+      }
+    },
+    {
+      "scene": "cinema",
+      "frame": 239,
+      "background": "drawings/cinema/239_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/cinema/239_caption.png",
+          "box": [
+            118,
+            316,
+            404,
+            28
+          ]
+        },
+        "screen": {
+          "png": "drawings/cinema/239_screen.png",
+          "box": [
+            248,
+            52,
+            150,
+            164
+          ]
+        },
+        "hero": {
+          "png": "drawings/cinema/239_hero.png",
+          "box": [
+            314,
+            248,
+            74,
+            98
+          ]
+        }
+      }
+    },
+    {
+      "scene": "cinema",
+      "frame": 242,
+      "background": "drawings/cinema/242_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/cinema/242_caption.png",
+          "box": [
+            118,
+            316,
+            404,
+            28
+          ]
+        },
+        "screen": {
+          "png": "drawings/cinema/242_screen.png",
+          "box": [
+            248,
+            52,
+            150,
+            164
+          ]
+        },
+        "hero": {
+          "png": "drawings/cinema/242_hero.png",
+          "box": [
+            314,
+            248,
+            74,
+            98
+          ]
+        }
+      }
+    },
+    {
+      "scene": "cinema",
+      "frame": 257,
+      "background": "drawings/cinema/257_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/cinema/257_caption.png",
+          "box": [
+            118,
+            316,
+            404,
+            28
+          ]
+        },
+        "screen": {
+          "png": "drawings/cinema/257_screen.png",
+          "box": [
+            248,
+            52,
+            150,
+            164
+          ]
+        },
+        "hero": {
+          "png": "drawings/cinema/257_hero.png",
+          "box": [
+            314,
+            248,
+            74,
+            98
+          ]
+        }
+      }
+    },
+    {
+      "scene": "cinema",
+      "frame": 275,
+      "background": "drawings/cinema/275_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/cinema/275_caption.png",
+          "box": [
+            118,
+            316,
+            404,
+            28
+          ]
+        },
+        "screen": {
+          "png": "drawings/cinema/275_screen.png",
+          "box": [
+            248,
+            52,
+            150,
+            164
+          ]
+        },
+        "hero": {
+          "png": "drawings/cinema/275_hero.png",
+          "box": [
+            314,
+            248,
+            74,
+            98
+          ]
+        }
+      }
+    },
+    {
+      "scene": "cinema",
+      "frame": 280,
+      "background": "drawings/cinema/280_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/cinema/280_caption.png",
+          "box": [
+            118,
+            316,
+            404,
+            28
+          ]
+        },
+        "screen": {
+          "png": "drawings/cinema/280_screen.png",
+          "box": [
+            248,
+            52,
+            150,
+            164
+          ]
+        },
+        "hero": {
+          "png": "drawings/cinema/280_hero.png",
+          "box": [
+            314,
+            248,
+            74,
+            98
+          ]
+        }
+      }
+    },
+    {
+      "scene": "cinema",
+      "frame": 284,
+      "background": "drawings/cinema/284_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/cinema/284_caption.png",
+          "box": [
+            118,
+            316,
+            404,
+            28
+          ]
+        },
+        "screen": {
+          "png": "drawings/cinema/284_screen.png",
+          "box": [
+            248,
+            52,
+            150,
+            164
+          ]
+        },
+        "hero": {
+          "png": "drawings/cinema/284_hero.png",
+          "box": [
+            314,
+            248,
+            74,
+            98
+          ]
+        }
+      }
+    },
+    {
+      "scene": "cinema",
+      "frame": 288,
+      "background": "drawings/cinema/288_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/cinema/288_caption.png",
+          "box": [
+            118,
+            316,
+            404,
+            28
+          ]
+        },
+        "screen": {
+          "png": "drawings/cinema/288_screen.png",
+          "box": [
+            248,
+            52,
+            150,
+            164
+          ]
+        },
+        "hero": {
+          "png": "drawings/cinema/288_hero.png",
+          "box": [
+            314,
+            248,
+            74,
+            98
+          ]
+        }
+      }
+    },
+    {
+      "scene": "cinema",
+      "frame": 291,
+      "background": "drawings/cinema/291_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/cinema/291_caption.png",
+          "box": [
+            118,
+            316,
+            404,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/cinema/291_hero.png",
+          "box": [
+            314,
+            248,
+            74,
+            98
+          ]
+        }
+      }
+    },
+    {
+      "scene": "cinema",
+      "frame": 294,
+      "background": "drawings/cinema/294_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/cinema/294_caption.png",
+          "box": [
+            118,
+            316,
+            404,
+            28
+          ]
+        },
+        "screen": {
+          "png": "drawings/cinema/294_screen.png",
+          "box": [
+            248,
+            52,
+            150,
+            164
+          ]
+        },
+        "hero": {
+          "png": "drawings/cinema/294_hero.png",
+          "box": [
+            314,
+            248,
+            74,
+            98
+          ]
+        }
+      }
+    },
+    {
+      "scene": "sunset",
+      "frame": 303,
+      "background": "drawings/sunset/303_background.png",
+      "layers": {
+        "hero": {
+          "png": "drawings/sunset/303_hero.png",
+          "box": [
+            256,
+            60,
+            82,
+            272
+          ]
+        }
+      }
+    },
+    {
+      "scene": "sunset",
+      "frame": 305,
+      "background": "drawings/sunset/305_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/sunset/305_caption.png",
+          "box": [
+            168,
+            316,
+            304,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/sunset/305_hero.png",
+          "box": [
+            256,
+            60,
+            82,
+            272
+          ]
+        }
+      }
+    },
+    {
+      "scene": "sunset",
+      "frame": 309,
+      "background": "drawings/sunset/309_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/sunset/309_caption.png",
+          "box": [
+            168,
+            316,
+            304,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/sunset/309_hero.png",
+          "box": [
+            256,
+            60,
+            82,
+            272
+          ]
+        }
+      }
+    },
+    {
+      "scene": "sunset",
+      "frame": 324,
+      "background": "drawings/sunset/324_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/sunset/324_caption.png",
+          "box": [
+            168,
+            316,
+            304,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/sunset/324_hero.png",
+          "box": [
+            256,
+            60,
+            82,
+            272
+          ]
+        }
+      }
+    },
+    {
+      "scene": "sunset",
+      "frame": 344,
+      "background": "drawings/sunset/344_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/sunset/344_caption.png",
+          "box": [
+            168,
+            316,
+            304,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/sunset/344_hero.png",
+          "box": [
+            256,
+            60,
+            82,
+            272
+          ]
+        }
+      }
+    },
+    {
+      "scene": "sunset",
+      "frame": 359,
+      "background": "drawings/sunset/359_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/sunset/359_caption.png",
+          "box": [
+            168,
+            316,
+            304,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/sunset/359_hero.png",
+          "box": [
+            256,
+            60,
+            82,
+            272
+          ]
+        }
+      }
+    },
+    {
+      "scene": "sunset",
+      "frame": 362,
+      "background": "drawings/sunset/362_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/sunset/362_caption.png",
+          "box": [
+            168,
+            316,
+            304,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/sunset/362_hero.png",
+          "box": [
+            256,
+            60,
+            82,
+            272
+          ]
+        }
+      }
+    },
+    {
+      "scene": "walk",
+      "frame": 369,
+      "background": "drawings/walk/369_background.png",
+      "layers": {
+        "hero": {
+          "png": "drawings/walk/369_hero.png",
+          "box": [
+            206,
+            62,
+            92,
+            298
+          ]
+        }
+      }
+    },
+    {
+      "scene": "walk",
+      "frame": 372,
+      "background": "drawings/walk/372_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/walk/372_caption.png",
+          "box": [
+            234,
+            316,
+            172,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/walk/372_hero.png",
+          "box": [
+            206,
+            62,
+            92,
+            298
+          ]
+        }
+      }
+    },
+    {
+      "scene": "walk",
+      "frame": 376,
+      "background": "drawings/walk/376_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/walk/376_caption.png",
+          "box": [
+            234,
+            316,
+            172,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/walk/376_hero.png",
+          "box": [
+            205,
+            62,
+            92,
+            298
+          ]
+        }
+      }
+    },
+    {
+      "scene": "walk",
+      "frame": 382,
+      "background": "drawings/walk/382_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/walk/382_caption.png",
+          "box": [
+            234,
+            316,
+            172,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/walk/382_hero.png",
+          "box": [
+            204,
+            62,
+            92,
+            298
+          ]
+        }
+      }
+    },
+    {
+      "scene": "walk",
+      "frame": 383,
+      "background": "drawings/walk/383_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/walk/383_caption.png",
+          "box": [
+            234,
+            316,
+            172,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/walk/383_hero.png",
+          "box": [
+            207,
+            62,
+            92,
+            298
+          ]
+        }
+      }
+    },
+    {
+      "scene": "walk",
+      "frame": 387,
+      "background": "drawings/walk/387_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/walk/387_caption.png",
+          "box": [
+            234,
+            316,
+            172,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/walk/387_hero.png",
+          "box": [
+            221,
+            62,
+            92,
+            298
+          ]
+        }
+      }
+    },
+    {
+      "scene": "walk",
+      "frame": 391,
+      "background": "drawings/walk/391_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/walk/391_caption.png",
+          "box": [
+            234,
+            316,
+            172,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/walk/391_hero.png",
+          "box": [
+            235,
+            62,
+            92,
+            298
+          ]
+        }
+      }
+    },
+    {
+      "scene": "walk",
+      "frame": 393,
+      "background": "drawings/walk/393_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/walk/393_caption.png",
+          "box": [
+            234,
+            316,
+            172,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/walk/393_hero.png",
+          "box": [
+            242,
+            62,
+            92,
+            298
+          ]
+        }
+      }
+    },
+    {
+      "scene": "walk",
+      "frame": 395,
+      "background": "drawings/walk/395_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/walk/395_caption.png",
+          "box": [
+            234,
+            316,
+            172,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/walk/395_hero.png",
+          "box": [
+            246,
+            62,
+            92,
+            298
+          ]
+        }
+      }
+    },
+    {
+      "scene": "walk",
+      "frame": 398,
+      "background": "drawings/walk/398_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/walk/398_caption.png",
+          "box": [
+            234,
+            316,
+            172,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/walk/398_hero.png",
+          "box": [
+            252,
+            62,
+            92,
+            298
+          ]
+        }
+      }
+    },
+    {
+      "scene": "walk",
+      "frame": 400,
+      "background": "drawings/walk/400_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/walk/400_caption.png",
+          "box": [
+            234,
+            316,
+            172,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/walk/400_hero.png",
+          "box": [
+            256,
+            62,
+            92,
+            298
+          ]
+        }
+      }
+    },
+    {
+      "scene": "walk",
+      "frame": 403,
+      "background": "drawings/walk/403_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/walk/403_caption.png",
+          "box": [
+            234,
+            316,
+            172,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/walk/403_hero.png",
+          "box": [
+            256,
+            62,
+            92,
+            298
+          ]
+        }
+      }
+    },
+    {
+      "scene": "walk",
+      "frame": 417,
+      "background": "drawings/walk/417_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/walk/417_caption.png",
+          "box": [
+            234,
+            316,
+            172,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/walk/417_hero.png",
+          "box": [
+            256,
+            62,
+            92,
+            298
+          ]
+        }
+      }
+    },
+    {
+      "scene": "hills",
+      "frame": 423,
+      "background": "drawings/hills/423_background.png",
+      "layers": {
+        "partner": {
+          "png": "drawings/hills/423_partner.png",
+          "box": [
+            446,
+            120,
+            52,
+            170
+          ]
+        },
+        "hero": {
+          "png": "drawings/hills/423_hero.png",
+          "box": [
+            134,
+            116,
+            50,
+            174
+          ]
+        }
+      }
+    },
+    {
+      "scene": "hills",
+      "frame": 425,
+      "background": "drawings/hills/425_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/hills/425_caption.png",
+          "box": [
+            220,
+            316,
+            200,
+            28
+          ]
+        },
+        "partner": {
+          "png": "drawings/hills/425_partner.png",
+          "box": [
+            447,
+            120,
+            52,
+            170
+          ]
+        },
+        "hero": {
+          "png": "drawings/hills/425_hero.png",
+          "box": [
+            134,
+            116,
+            50,
+            174
+          ]
+        }
+      }
+    },
+    {
+      "scene": "hills",
+      "frame": 429,
+      "background": "drawings/hills/429_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/hills/429_caption.png",
+          "box": [
+            220,
+            316,
+            200,
+            28
+          ]
+        },
+        "partner": {
+          "png": "drawings/hills/429_partner.png",
+          "box": [
+            448,
+            120,
+            52,
+            170
+          ]
+        },
+        "hero": {
+          "png": "drawings/hills/429_hero.png",
+          "box": [
+            133,
+            116,
+            50,
+            174
+          ]
+        }
+      }
+    },
+    {
+      "scene": "hills",
+      "frame": 435,
+      "background": "drawings/hills/435_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/hills/435_caption.png",
+          "box": [
+            220,
+            316,
+            200,
+            28
+          ]
+        },
+        "partner": {
+          "png": "drawings/hills/435_partner.png",
+          "box": [
+            450,
+            120,
+            52,
+            170
+          ]
+        },
+        "hero": {
+          "png": "drawings/hills/435_hero.png",
+          "box": [
+            131,
+            116,
+            50,
+            174
+          ]
+        }
+      }
+    },
+    {
+      "scene": "hills",
+      "frame": 453,
+      "background": "drawings/hills/453_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/hills/453_caption.png",
+          "box": [
+            220,
+            316,
+            200,
+            28
+          ]
+        },
+        "partner": {
+          "png": "drawings/hills/453_partner.png",
+          "box": [
+            455,
+            120,
+            52,
+            170
+          ]
+        },
+        "hero": {
+          "png": "drawings/hills/453_hero.png",
+          "box": [
+            128,
+            116,
+            50,
+            174
+          ]
+        }
+      }
+    },
+    {
+      "scene": "hills",
+      "frame": 461,
+      "background": "drawings/hills/461_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/hills/461_caption.png",
+          "box": [
+            220,
+            316,
+            200,
+            28
+          ]
+        },
+        "partner": {
+          "png": "drawings/hills/461_partner.png",
+          "box": [
+            458,
+            120,
+            52,
+            170
+          ]
+        },
+        "hero": {
+          "png": "drawings/hills/461_hero.png",
+          "box": [
+            126,
+            116,
+            50,
+            174
+          ]
+        }
+      }
+    },
+    {
+      "scene": "water",
+      "frame": 470,
+      "background": "drawings/water/470_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/water/470_caption.png",
+          "box": [
+            206,
+            316,
+            228,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/water/470_hero.png",
+          "box": [
+            284,
+            108,
+            98,
+            250
+          ]
+        }
+      }
+    },
+    {
+      "scene": "water",
+      "frame": 472,
+      "background": "drawings/water/472_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/water/472_caption.png",
+          "box": [
+            206,
+            316,
+            228,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/water/472_hero.png",
+          "box": [
+            284,
+            108,
+            98,
+            250
+          ]
+        }
+      }
+    },
+    {
+      "scene": "water",
+      "frame": 476,
+      "background": "drawings/water/476_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/water/476_caption.png",
+          "box": [
+            206,
+            316,
+            228,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/water/476_hero.png",
+          "box": [
+            284,
+            108,
+            98,
+            250
+          ]
+        }
+      }
+    },
+    {
+      "scene": "water",
+      "frame": 482,
+      "background": "drawings/water/482_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/water/482_caption.png",
+          "box": [
+            206,
+            316,
+            228,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/water/482_hero.png",
+          "box": [
+            284,
+            108,
+            98,
+            250
+          ]
+        }
+      }
+    },
+    {
+      "scene": "water",
+      "frame": 491,
+      "background": "drawings/water/491_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/water/491_caption.png",
+          "box": [
+            206,
+            316,
+            228,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/water/491_hero.png",
+          "box": [
+            284,
+            108,
+            98,
+            250
+          ]
+        }
+      }
+    },
+    {
+      "scene": "water",
+      "frame": 499,
+      "background": "drawings/water/499_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/water/499_caption.png",
+          "box": [
+            206,
+            316,
+            228,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/water/499_hero.png",
+          "box": [
+            284,
+            108,
+            98,
+            250
+          ]
+        }
+      }
+    },
+    {
+      "scene": "water",
+      "frame": 505,
+      "background": "drawings/water/505_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/water/505_caption.png",
+          "box": [
+            206,
+            316,
+            228,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/water/505_hero.png",
+          "box": [
+            284,
+            108,
+            98,
+            250
+          ]
+        }
+      }
+    },
+    {
+      "scene": "hands",
+      "frame": 513,
+      "background": "drawings/hands/513_background.png",
+      "layers": {
+        "partner": {
+          "png": "drawings/hands/513_partner.png",
+          "box": [
+            320,
+            52,
+            90,
+            306
+          ]
+        },
+        "hero": {
+          "png": "drawings/hands/513_hero.png",
+          "box": [
+            232,
+            52,
+            88,
+            306
+          ]
+        }
+      }
+    },
+    {
+      "scene": "hands",
+      "frame": 515,
+      "background": "drawings/hands/515_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/hands/515_caption.png",
+          "box": [
+            112,
+            316,
+            416,
+            28
+          ]
+        },
+        "partner": {
+          "png": "drawings/hands/515_partner.png",
+          "box": [
+            320,
+            52,
+            90,
+            306
+          ]
+        },
+        "hero": {
+          "png": "drawings/hands/515_hero.png",
+          "box": [
+            232,
+            52,
+            88,
+            306
+          ]
+        }
+      }
+    },
+    {
+      "scene": "hands",
+      "frame": 518,
+      "background": "drawings/hands/518_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/hands/518_caption.png",
+          "box": [
+            112,
+            316,
+            416,
+            28
+          ]
+        },
+        "partner": {
+          "png": "drawings/hands/518_partner.png",
+          "box": [
+            320,
+            52,
+            90,
+            306
+          ]
+        },
+        "hero": {
+          "png": "drawings/hands/518_hero.png",
+          "box": [
+            232,
+            52,
+            88,
+            306
+          ]
+        }
+      }
+    },
+    {
+      "scene": "hands",
+      "frame": 521,
+      "background": "drawings/hands/521_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/hands/521_caption.png",
+          "box": [
+            112,
+            316,
+            416,
+            28
+          ]
+        },
+        "partner": {
+          "png": "drawings/hands/521_partner.png",
+          "box": [
+            320,
+            52,
+            90,
+            306
+          ]
+        },
+        "hero": {
+          "png": "drawings/hands/521_hero.png",
+          "box": [
+            232,
+            52,
+            88,
+            306
+          ]
+        }
+      }
+    },
+    {
+      "scene": "hands",
+      "frame": 523,
+      "background": "drawings/hands/523_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/hands/523_caption.png",
+          "box": [
+            112,
+            316,
+            416,
+            28
+          ]
+        },
+        "partner": {
+          "png": "drawings/hands/523_partner.png",
+          "box": [
+            320,
+            52,
+            90,
+            306
+          ]
+        },
+        "hero": {
+          "png": "drawings/hands/523_hero.png",
+          "box": [
+            232,
+            52,
+            88,
+            306
+          ]
+        }
+      }
+    },
+    {
+      "scene": "hands",
+      "frame": 525,
+      "background": "drawings/hands/525_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/hands/525_caption.png",
+          "box": [
+            112,
+            316,
+            416,
+            28
+          ]
+        },
+        "partner": {
+          "png": "drawings/hands/525_partner.png",
+          "box": [
+            320,
+            52,
+            90,
+            306
+          ]
+        },
+        "hero": {
+          "png": "drawings/hands/525_hero.png",
+          "box": [
+            232,
+            52,
+            88,
+            306
+          ]
+        }
+      }
+    },
+    {
+      "scene": "hands",
+      "frame": 527,
+      "background": "drawings/hands/527_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/hands/527_caption.png",
+          "box": [
+            112,
+            316,
+            416,
+            28
+          ]
+        },
+        "partner": {
+          "png": "drawings/hands/527_partner.png",
+          "box": [
+            320,
+            52,
+            90,
+            306
+          ]
+        },
+        "hero": {
+          "png": "drawings/hands/527_hero.png",
+          "box": [
+            232,
+            52,
+            88,
+            306
+          ]
+        }
+      }
+    },
+    {
+      "scene": "hands",
+      "frame": 530,
+      "background": "drawings/hands/530_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/hands/530_caption.png",
+          "box": [
+            112,
+            316,
+            416,
+            28
+          ]
+        },
+        "partner": {
+          "png": "drawings/hands/530_partner.png",
+          "box": [
+            320,
+            52,
+            90,
+            306
+          ]
+        },
+        "hero": {
+          "png": "drawings/hands/530_hero.png",
+          "box": [
+            232,
+            52,
+            88,
+            306
+          ]
+        }
+      }
+    },
+    {
+      "scene": "hands",
+      "frame": 534,
+      "background": "drawings/hands/534_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/hands/534_caption.png",
+          "box": [
+            112,
+            316,
+            416,
+            28
+          ]
+        },
+        "partner": {
+          "png": "drawings/hands/534_partner.png",
+          "box": [
+            320,
+            52,
+            90,
+            306
+          ]
+        },
+        "hero": {
+          "png": "drawings/hands/534_hero.png",
+          "box": [
+            232,
+            52,
+            88,
+            306
+          ]
+        }
+      }
+    },
+    {
+      "scene": "hands",
+      "frame": 538,
+      "background": "drawings/hands/538_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/hands/538_caption.png",
+          "box": [
+            112,
+            316,
+            416,
+            28
+          ]
+        },
+        "partner": {
+          "png": "drawings/hands/538_partner.png",
+          "box": [
+            320,
+            52,
+            90,
+            306
+          ]
+        },
+        "hero": {
+          "png": "drawings/hands/538_hero.png",
+          "box": [
+            232,
+            52,
+            88,
+            306
+          ]
+        }
+      }
+    },
+    {
+      "scene": "hands",
+      "frame": 542,
+      "background": "drawings/hands/542_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/hands/542_caption.png",
+          "box": [
+            112,
+            316,
+            416,
+            28
+          ]
+        },
+        "partner": {
+          "png": "drawings/hands/542_partner.png",
+          "box": [
+            320,
+            52,
+            90,
+            306
+          ]
+        },
+        "hero": {
+          "png": "drawings/hands/542_hero.png",
+          "box": [
+            232,
+            52,
+            88,
+            306
+          ]
+        }
+      }
+    },
+    {
+      "scene": "hands",
+      "frame": 547,
+      "background": "drawings/hands/547_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/hands/547_caption.png",
+          "box": [
+            112,
+            316,
+            416,
+            28
+          ]
+        },
+        "partner": {
+          "png": "drawings/hands/547_partner.png",
+          "box": [
+            320,
+            52,
+            90,
+            306
+          ]
+        },
+        "hero": {
+          "png": "drawings/hands/547_hero.png",
+          "box": [
+            232,
+            52,
+            88,
+            306
+          ]
+        }
+      }
+    },
+    {
+      "scene": "hands",
+      "frame": 558,
+      "background": "drawings/hands/558_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/hands/558_caption.png",
+          "box": [
+            112,
+            316,
+            416,
+            28
+          ]
+        },
+        "partner": {
+          "png": "drawings/hands/558_partner.png",
+          "box": [
+            320,
+            52,
+            90,
+            306
+          ]
+        },
+        "hero": {
+          "png": "drawings/hands/558_hero.png",
+          "box": [
+            232,
+            52,
+            88,
+            306
+          ]
+        }
+      }
+    },
+    {
+      "scene": "hands",
+      "frame": 577,
+      "background": "drawings/hands/577_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/hands/577_caption.png",
+          "box": [
+            112,
+            316,
+            416,
+            28
+          ]
+        },
+        "partner": {
+          "png": "drawings/hands/577_partner.png",
+          "box": [
+            320,
+            52,
+            90,
+            306
+          ]
+        },
+        "hero": {
+          "png": "drawings/hands/577_hero.png",
+          "box": [
+            232,
+            52,
+            88,
+            306
+          ]
+        }
+      }
+    },
+    {
+      "scene": "hands",
+      "frame": 598,
+      "background": "drawings/hands/598_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/hands/598_caption.png",
+          "box": [
+            112,
+            316,
+            416,
+            28
+          ]
+        },
+        "partner": {
+          "png": "drawings/hands/598_partner.png",
+          "box": [
+            320,
+            52,
+            90,
+            306
+          ]
+        },
+        "hero": {
+          "png": "drawings/hands/598_hero.png",
+          "box": [
+            232,
+            52,
+            88,
+            306
+          ]
+        }
+      }
+    },
+    {
+      "scene": "hands",
+      "frame": 601,
+      "background": "drawings/hands/601_background.png",
+      "layers": {
+        "partner": {
+          "png": "drawings/hands/601_partner.png",
+          "box": [
+            320,
+            52,
+            90,
+            306
+          ]
+        },
+        "hero": {
+          "png": "drawings/hands/601_hero.png",
+          "box": [
+            232,
+            52,
+            88,
+            306
+          ]
+        }
+      }
+    },
+    {
+      "scene": "hands",
+      "frame": 607,
+      "background": "drawings/hands/607_background.png",
+      "layers": {
+        "partner": {
+          "png": "drawings/hands/607_partner.png",
+          "box": [
+            320,
+            52,
+            90,
+            306
+          ]
+        },
+        "hero": {
+          "png": "drawings/hands/607_hero.png",
+          "box": [
+            232,
+            52,
+            88,
+            306
+          ]
+        }
+      }
+    },
+    {
+      "scene": "bench",
+      "frame": 614,
+      "background": "drawings/bench/614_background.png",
+      "layers": {
+        "hero": {
+          "png": "drawings/bench/614_hero.png",
+          "box": [
+            268,
+            88,
+            62,
+            254
+          ]
+        }
+      }
+    },
+    {
+      "scene": "bench",
+      "frame": 617,
+      "background": "drawings/bench/617_background.png",
+      "layers": {
+        "hero": {
+          "png": "drawings/bench/617_hero.png",
+          "box": [
+            268,
+            88,
+            62,
+            254
+          ]
+        }
+      }
+    },
+    {
+      "scene": "bench",
+      "frame": 620,
+      "background": "drawings/bench/620_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/bench/620_caption.png",
+          "box": [
+            130,
+            316,
+            380,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/bench/620_hero.png",
+          "box": [
+            268,
+            88,
+            62,
+            254
+          ]
+        }
+      }
+    },
+    {
+      "scene": "bench",
+      "frame": 621,
+      "background": "drawings/bench/621_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/bench/621_caption.png",
+          "box": [
+            130,
+            316,
+            380,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/bench/621_hero.png",
+          "box": [
+            268,
+            130,
+            114,
+            192
+          ]
+        }
+      }
+    },
+    {
+      "scene": "bench",
+      "frame": 624,
+      "background": "drawings/bench/624_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/bench/624_caption.png",
+          "box": [
+            130,
+            316,
+            380,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/bench/624_hero.png",
+          "box": [
+            268,
+            130,
+            114,
+            192
+          ]
+        }
+      }
+    },
+    {
+      "scene": "bench",
+      "frame": 639,
+      "background": "drawings/bench/639_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/bench/639_caption.png",
+          "box": [
+            130,
+            316,
+            380,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/bench/639_hero.png",
+          "box": [
+            268,
+            130,
+            114,
+            192
+          ]
+        }
+      }
+    },
+    {
+      "scene": "bench",
+      "frame": 661,
+      "background": "drawings/bench/661_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/bench/661_caption.png",
+          "box": [
+            130,
+            316,
+            380,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/bench/661_hero.png",
+          "box": [
+            268,
+            130,
+            114,
+            192
+          ]
+        }
+      }
+    },
+    {
+      "scene": "bench",
+      "frame": 678,
+      "background": "drawings/bench/678_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/bench/678_caption.png",
+          "box": [
+            130,
+            316,
+            380,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/bench/678_hero.png",
+          "box": [
+            268,
+            130,
+            114,
+            192
+          ]
+        }
+      }
+    },
+    {
+      "scene": "autumn",
+      "frame": 685,
+      "background": "drawings/autumn/685_background.png",
+      "layers": {
+        "hero": {
+          "png": "drawings/autumn/685_hero.png",
+          "box": [
+            268,
+            130,
+            114,
+            192
+          ]
+        }
+      }
+    },
+    {
+      "scene": "autumn",
+      "frame": 687,
+      "background": "drawings/autumn/687_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/autumn/687_caption.png",
+          "box": [
+            198,
+            316,
+            244,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/autumn/687_hero.png",
+          "box": [
+            268,
+            130,
+            114,
+            192
+          ]
+        }
+      }
+    },
+    {
+      "scene": "autumn",
+      "frame": 690,
+      "background": "drawings/autumn/690_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/autumn/690_caption.png",
+          "box": [
+            198,
+            316,
+            244,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/autumn/690_hero.png",
+          "box": [
+            268,
+            130,
+            114,
+            192
+          ]
+        }
+      }
+    },
+    {
+      "scene": "autumn",
+      "frame": 699,
+      "background": "drawings/autumn/699_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/autumn/699_caption.png",
+          "box": [
+            198,
+            316,
+            244,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/autumn/699_hero.png",
+          "box": [
+            268,
+            130,
+            114,
+            192
+          ]
+        }
+      }
+    },
+    {
+      "scene": "autumn",
+      "frame": 700,
+      "background": "drawings/autumn/700_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/autumn/700_caption.png",
+          "box": [
+            198,
+            316,
+            244,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/autumn/700_hero.png",
+          "box": [
+            268,
+            130,
+            114,
+            192
+          ]
+        }
+      }
+    },
+    {
+      "scene": "autumn",
+      "frame": 701,
+      "background": "drawings/autumn/701_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/autumn/701_caption.png",
+          "box": [
+            198,
+            316,
+            244,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/autumn/701_hero.png",
+          "box": [
+            268,
+            130,
+            114,
+            192
+          ]
+        }
+      }
+    },
+    {
+      "scene": "snow",
+      "frame": 702,
+      "background": "drawings/snow/702_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/snow/702_caption.png",
+          "box": [
+            198,
+            316,
+            244,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/snow/702_hero.png",
+          "box": [
+            268,
+            130,
+            114,
+            192
+          ]
+        }
+      }
+    },
+    {
+      "scene": "snow",
+      "frame": 703,
+      "background": "drawings/snow/703_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/snow/703_caption.png",
+          "box": [
+            198,
+            316,
+            244,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/snow/703_hero.png",
+          "box": [
+            268,
+            130,
+            114,
+            192
+          ]
+        }
+      }
+    },
+    {
+      "scene": "snow",
+      "frame": 713,
+      "background": "drawings/snow/713_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/snow/713_caption.png",
+          "box": [
+            198,
+            316,
+            244,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/snow/713_hero.png",
+          "box": [
+            268,
+            130,
+            114,
+            192
+          ]
+        }
+      }
+    },
+    {
+      "scene": "snow",
+      "frame": 723,
+      "background": "drawings/snow/723_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/snow/723_caption.png",
+          "box": [
+            198,
+            316,
+            244,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/snow/723_hero.png",
+          "box": [
+            268,
+            130,
+            114,
+            192
+          ]
+        }
+      }
+    },
+    {
+      "scene": "snow",
+      "frame": 724,
+      "background": "drawings/snow/724_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/snow/724_caption.png",
+          "box": [
+            198,
+            316,
+            244,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/snow/724_hero.png",
+          "box": [
+            268,
+            130,
+            114,
+            192
+          ]
+        }
+      }
+    },
+    {
+      "scene": "snow",
+      "frame": 725,
+      "background": "drawings/snow/725_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/snow/725_caption.png",
+          "box": [
+            198,
+            316,
+            244,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/snow/725_hero.png",
+          "box": [
+            268,
+            130,
+            114,
+            192
+          ]
+        }
+      }
+    },
+    {
+      "scene": "blue",
+      "frame": 726,
+      "background": "drawings/blue/726_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/blue/726_caption.png",
+          "box": [
+            198,
+            316,
+            244,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/blue/726_hero.png",
+          "box": [
+            268,
+            130,
+            114,
+            192
+          ]
+        }
+      }
+    },
+    {
+      "scene": "blue",
+      "frame": 727,
+      "background": "drawings/blue/727_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/blue/727_caption.png",
+          "box": [
+            198,
+            316,
+            244,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/blue/727_hero.png",
+          "box": [
+            268,
+            130,
+            114,
+            192
+          ]
+        }
+      }
+    },
+    {
+      "scene": "blue",
+      "frame": 732,
+      "background": "drawings/blue/732_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/blue/732_caption.png",
+          "box": [
+            198,
+            316,
+            244,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/blue/732_hero.png",
+          "box": [
+            268,
+            130,
+            114,
+            192
+          ]
+        }
+      }
+    },
+    {
+      "scene": "blue",
+      "frame": 736,
+      "background": "drawings/blue/736_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/blue/736_caption.png",
+          "box": [
+            198,
+            316,
+            244,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/blue/736_hero.png",
+          "box": [
+            268,
+            130,
+            114,
+            192
+          ]
+        }
+      }
+    },
+    {
+      "scene": "blue",
+      "frame": 740,
+      "background": "drawings/blue/740_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/blue/740_caption.png",
+          "box": [
+            198,
+            316,
+            244,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/blue/740_hero.png",
+          "box": [
+            268,
+            130,
+            114,
+            192
+          ]
+        }
+      }
+    },
+    {
+      "scene": "blue",
+      "frame": 742,
+      "background": "drawings/blue/742_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/blue/742_caption.png",
+          "box": [
+            198,
+            316,
+            244,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/blue/742_hero.png",
+          "box": [
+            268,
+            130,
+            114,
+            192
+          ]
+        }
+      }
+    },
+    {
+      "scene": "blossom",
+      "frame": 748,
+      "background": "drawings/blossom/748_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/blossom/748_caption.png",
+          "box": [
+            204,
+            316,
+            232,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/blossom/748_hero.png",
+          "box": [
+            268,
+            130,
+            114,
+            192
+          ]
+        }
+      }
+    },
+    {
+      "scene": "blossom",
+      "frame": 751,
+      "background": "drawings/blossom/751_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/blossom/751_caption.png",
+          "box": [
+            204,
+            316,
+            232,
+            28
+          ]
+        },
+        "hero": {
+          "png": "drawings/blossom/751_hero.png",
+          "box": [
+            268,
+            130,
+            114,
+            192
+          ]
+        }
+      }
+    },
+    {
+      "scene": "blossom",
+      "frame": 753,
+      "background": "drawings/blossom/753_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/blossom/753_caption.png",
+          "box": [
+            204,
+            316,
+            232,
+            28
+          ]
+        },
+        "partner": {
+          "png": "drawings/blossom/753_partner.png",
+          "box": [
+            620,
+            74,
+            20,
+            258
+          ]
+        },
+        "hero": {
+          "png": "drawings/blossom/753_hero.png",
+          "box": [
+            268,
+            130,
+            114,
+            192
+          ]
+        }
+      }
+    },
+    {
+      "scene": "blossom",
+      "frame": 755,
+      "background": "drawings/blossom/755_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/blossom/755_caption.png",
+          "box": [
+            204,
+            316,
+            232,
+            28
+          ]
+        },
+        "partner": {
+          "png": "drawings/blossom/755_partner.png",
+          "box": [
+            604,
+            74,
+            36,
+            258
+          ]
+        },
+        "hero": {
+          "png": "drawings/blossom/755_hero.png",
+          "box": [
+            268,
+            130,
+            114,
+            192
+          ]
+        }
+      }
+    },
+    {
+      "scene": "blossom",
+      "frame": 757,
+      "background": "drawings/blossom/757_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/blossom/757_caption.png",
+          "box": [
+            204,
+            316,
+            232,
+            28
+          ]
+        },
+        "partner": {
+          "png": "drawings/blossom/757_partner.png",
+          "box": [
+            588,
+            74,
+            52,
+            258
+          ]
+        },
+        "hero": {
+          "png": "drawings/blossom/757_hero.png",
+          "box": [
+            268,
+            130,
+            114,
+            192
+          ]
+        }
+      }
+    },
+    {
+      "scene": "blossom",
+      "frame": 759,
+      "background": "drawings/blossom/759_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/blossom/759_caption.png",
+          "box": [
+            204,
+            316,
+            232,
+            28
+          ]
+        },
+        "partner": {
+          "png": "drawings/blossom/759_partner.png",
+          "box": [
+            568,
+            74,
+            72,
+            258
+          ]
+        },
+        "hero": {
+          "png": "drawings/blossom/759_hero.png",
+          "box": [
+            268,
+            130,
+            114,
+            192
+          ]
+        }
+      }
+    },
+    {
+      "scene": "blossom",
+      "frame": 761,
+      "background": "drawings/blossom/761_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/blossom/761_caption.png",
+          "box": [
+            204,
+            316,
+            232,
+            28
+          ]
+        },
+        "partner": {
+          "png": "drawings/blossom/761_partner.png",
+          "box": [
+            548,
+            74,
+            92,
+            258
+          ]
+        },
+        "hero": {
+          "png": "drawings/blossom/761_hero.png",
+          "box": [
+            268,
+            130,
+            114,
+            192
+          ]
+        }
+      }
+    },
+    {
+      "scene": "blossom",
+      "frame": 762,
+      "background": "drawings/blossom/762_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/blossom/762_caption.png",
+          "box": [
+            204,
+            316,
+            232,
+            28
+          ]
+        },
+        "partner": {
+          "png": "drawings/blossom/762_partner.png",
+          "box": [
+            535,
+            74,
+            96,
+            258
+          ]
+        },
+        "hero": {
+          "png": "drawings/blossom/762_hero.png",
+          "box": [
+            268,
+            88,
+            62,
+            254
+          ]
+        }
+      }
+    },
+    {
+      "scene": "blossom",
+      "frame": 765,
+      "background": "drawings/blossom/765_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/blossom/765_caption.png",
+          "box": [
+            204,
+            316,
+            232,
+            28
+          ]
+        },
+        "partner": {
+          "png": "drawings/blossom/765_partner.png",
+          "box": [
+            504,
+            74,
+            96,
+            258
+          ]
+        },
+        "hero": {
+          "png": "drawings/blossom/765_hero.png",
+          "box": [
+            268,
+            88,
+            62,
+            254
+          ]
+        }
+      }
+    },
+    {
+      "scene": "blossom",
+      "frame": 769,
+      "background": "drawings/blossom/769_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/blossom/769_caption.png",
+          "box": [
+            204,
+            316,
+            232,
+            28
+          ]
+        },
+        "partner": {
+          "png": "drawings/blossom/769_partner.png",
+          "box": [
+            468,
+            74,
+            96,
+            258
+          ]
+        },
+        "hero": {
+          "png": "drawings/blossom/769_hero.png",
+          "box": [
+            268,
+            88,
+            62,
+            254
+          ]
+        }
+      }
+    },
+    {
+      "scene": "blossom",
+      "frame": 772,
+      "background": "drawings/blossom/772_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/blossom/772_caption.png",
+          "box": [
+            204,
+            316,
+            232,
+            28
+          ]
+        },
+        "partner": {
+          "png": "drawings/blossom/772_partner.png",
+          "box": [
+            450,
+            74,
+            96,
+            258
+          ]
+        },
+        "hero": {
+          "png": "drawings/blossom/772_hero.png",
+          "box": [
+            268,
+            88,
+            62,
+            254
+          ]
+        }
+      }
+    },
+    {
+      "scene": "blossom",
+      "frame": 775,
+      "background": "drawings/blossom/775_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/blossom/775_caption.png",
+          "box": [
+            204,
+            316,
+            232,
+            28
+          ]
+        },
+        "partner": {
+          "png": "drawings/blossom/775_partner.png",
+          "box": [
+            438,
+            74,
+            96,
+            258
+          ]
+        },
+        "hero": {
+          "png": "drawings/blossom/775_hero.png",
+          "box": [
+            268,
+            88,
+            62,
+            254
+          ]
+        }
+      }
+    },
+    {
+      "scene": "blossom",
+      "frame": 778,
+      "background": "drawings/blossom/778_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/blossom/778_caption.png",
+          "box": [
+            204,
+            316,
+            232,
+            28
+          ]
+        },
+        "partner": {
+          "png": "drawings/blossom/778_partner.png",
+          "box": [
+            429,
+            74,
+            96,
+            258
+          ]
+        },
+        "hero": {
+          "png": "drawings/blossom/778_hero.png",
+          "box": [
+            268,
+            88,
+            62,
+            254
+          ]
+        }
+      }
+    },
+    {
+      "scene": "blossom",
+      "frame": 781,
+      "background": "drawings/blossom/781_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/blossom/781_caption.png",
+          "box": [
+            204,
+            316,
+            232,
+            28
+          ]
+        },
+        "partner": {
+          "png": "drawings/blossom/781_partner.png",
+          "box": [
+            426,
+            74,
+            96,
+            258
+          ]
+        },
+        "hero": {
+          "png": "drawings/blossom/781_hero.png",
+          "box": [
+            268,
+            88,
+            62,
+            254
+          ]
+        }
+      }
+    },
+    {
+      "scene": "blossom",
+      "frame": 783,
+      "background": "drawings/blossom/783_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/blossom/783_caption.png",
+          "box": [
+            204,
+            316,
+            232,
+            28
+          ]
+        },
+        "partner": {
+          "png": "drawings/blossom/783_partner.png",
+          "box": [
+            426,
+            74,
+            96,
+            258
+          ]
+        },
+        "hero": {
+          "png": "drawings/blossom/783_hero.png",
+          "box": [
+            268,
+            88,
+            62,
+            254
+          ]
+        }
+      }
+    },
+    {
+      "scene": "blossom",
+      "frame": 784,
+      "background": "drawings/blossom/784_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/blossom/784_caption.png",
+          "box": [
+            204,
+            316,
+            232,
+            28
+          ]
+        },
+        "partner": {
+          "png": "drawings/blossom/784_partner.png",
+          "box": [
+            426,
+            74,
+            96,
+            258
+          ]
+        },
+        "hero": {
+          "png": "drawings/blossom/784_hero.png",
+          "box": [
+            268,
+            88,
+            62,
+            254
+          ]
+        }
+      }
+    },
+    {
+      "scene": "together",
+      "frame": 791,
+      "background": "drawings/together/791_background.png",
+      "layers": {
+        "caption": {
+          "png": "drawings/together/791_caption.png",
+          "box": [
+            204,
+            316,
+            232,
+            28
+          ]
+        },
+        "partner": {
+          "png": "drawings/together/791_partner.png",
+          "box": [
+            320,
+            52,
+            90,
+            306
+          ]
+        },
+        "hero": {
+          "png": "drawings/together/791_hero.png",
+          "box": [
+            232,
+            52,
+            88,
+            306
+          ]
+        }
+      }
+    },
+    {
+      "scene": "together",
+      "frame": 795,
+      "background": "drawings/together/795_background.png",
+      "layers": {
+        "partner": {
+          "png": "drawings/together/795_partner.png",
+          "box": [
+            320,
+            52,
+            90,
+            306
+          ]
+        },
+        "hero": {
+          "png": "drawings/together/795_hero.png",
+          "box": [
+            232,
+            52,
+            88,
+            306
+          ]
+        }
+      }
+    },
+    {
+      "scene": "together",
+      "frame": 798,
+      "background": "drawings/together/798_background.png",
+      "layers": {
+        "partner": {
+          "png": "drawings/together/798_partner.png",
+          "box": [
+            320,
+            52,
+            90,
+            306
+          ]
+        },
+        "hero": {
+          "png": "drawings/together/798_hero.png",
+          "box": [
+            232,
+            52,
+            88,
+            306
+          ]
+        }
+      }
+    },
+    {
+      "scene": "together",
+      "frame": 800,
+      "background": "drawings/together/800_background.png",
+      "layers": {
+        "partner": {
+          "png": "drawings/together/800_partner.png",
+          "box": [
+            320,
+            52,
+            90,
+            306
+          ]
+        },
+        "hero": {
+          "png": "drawings/together/800_hero.png",
+          "box": [
+            232,
+            52,
+            88,
+            306
+          ]
+        }
+      }
+    },
+    {
+      "scene": "together",
+      "frame": 804,
+      "background": "drawings/together/804_background.png",
+      "layers": {
+        "partner": {
+          "png": "drawings/together/804_partner.png",
+          "box": [
+            320,
+            52,
+            90,
+            306
+          ]
+        },
+        "hero": {
+          "png": "drawings/together/804_hero.png",
+          "box": [
+            232,
+            52,
+            88,
+            306
+          ]
+        }
+      }
+    },
+    {
+      "scene": "together",
+      "frame": 808,
+      "background": "drawings/together/808_background.png",
+      "layers": {
+        "partner": {
+          "png": "drawings/together/808_partner.png",
+          "box": [
+            320,
+            52,
+            90,
+            306
+          ]
+        },
+        "hero": {
+          "png": "drawings/together/808_hero.png",
+          "box": [
+            232,
+            52,
+            88,
+            306
+          ]
+        }
+      }
+    },
+    {
+      "scene": "together",
+      "frame": 820,
+      "background": "drawings/together/820_background.png",
+      "layers": {
+        "partner": {
+          "png": "drawings/together/820_partner.png",
+          "box": [
+            320,
+            52,
+            90,
+            306
+          ]
+        },
+        "hero": {
+          "png": "drawings/together/820_hero.png",
+          "box": [
+            232,
+            52,
+            88,
+            306
+          ]
+        }
+      }
+    },
+    {
+      "scene": "together",
+      "frame": 835,
+      "background": "drawings/together/835_background.png",
+      "layers": {
+        "partner": {
+          "png": "drawings/together/835_partner.png",
+          "box": [
+            320,
+            52,
+            90,
+            306
+          ]
+        },
+        "hero": {
+          "png": "drawings/together/835_hero.png",
+          "box": [
+            232,
+            52,
+            88,
+            306
+          ]
+        }
+      }
+    },
+    {
+      "scene": "together",
+      "frame": 842,
+      "background": "drawings/together/842_background.png",
+      "layers": {
+        "partner": {
+          "png": "drawings/together/842_partner.png",
+          "box": [
+            320,
+            52,
+            90,
+            306
+          ]
+        },
+        "hero": {
+          "png": "drawings/together/842_hero.png",
+          "box": [
+            232,
+            52,
+            88,
+            306
+          ]
+        }
+      }
+    },
+    {
+      "scene": "together",
+      "frame": 850,
+      "background": "drawings/together/850_background.png",
+      "layers": {
+        "partner": {
+          "png": "drawings/together/850_partner.png",
+          "box": [
+            320,
+            52,
+            90,
+            306
+          ]
+        },
+        "hero": {
+          "png": "drawings/together/850_hero.png",
+          "box": [
+            232,
+            52,
+            88,
+            306
+          ]
+        }
+      }
+    },
+    {
+      "scene": "together",
+      "frame": 858,
+      "background": "drawings/together/858_background.png",
+      "layers": {
+        "partner": {
+          "png": "drawings/together/858_partner.png",
+          "box": [
+            320,
+            52,
+            90,
+            306
+          ]
+        },
+        "hero": {
+          "png": "drawings/together/858_hero.png",
+          "box": [
+            232,
+            52,
+            88,
+            306
+          ]
+        }
+      }
+    },
+    {
+      "scene": "together",
+      "frame": 862,
+      "background": "drawings/together/862_background.png",
+      "layers": {
+        "partner": {
+          "png": "drawings/together/862_partner.png",
+          "box": [
+            320,
+            52,
+            90,
+            306
+          ]
+        },
+        "hero": {
+          "png": "drawings/together/862_hero.png",
+          "box": [
+            232,
+            52,
+            88,
+            306
+          ]
+        }
+      }
+    },
+    {
+      "scene": "credits",
+      "frame": 863,
+      "background": "drawings/credits/863_background.png",
+      "layers": {
+        "title": {
+          "png": "drawings/credits/863_title.png",
+          "box": [
+            264,
+            62,
+            112,
+            188
+          ]
+        }
+      }
+    },
+    {
+      "scene": "credits",
+      "frame": 868,
+      "background": "drawings/credits/868_background.png",
+      "layers": {
+        "title": {
+          "png": "drawings/credits/868_title.png",
+          "box": [
+            264,
+            62,
+            112,
+            188
+          ]
+        }
+      }
+    },
+    {
+      "scene": "credits",
+      "frame": 869,
+      "background": "drawings/credits/869_background.png",
+      "layers": {
+        "title": {
+          "png": "drawings/credits/869_title.png",
+          "box": [
+            264,
+            62,
+            112,
+            188
+          ]
+        }
+      }
+    },
+    {
+      "scene": "credits",
+      "frame": 879,
+      "background": "drawings/credits/879_background.png",
+      "layers": {
+        "title": {
+          "png": "drawings/credits/879_title.png",
+          "box": [
+            264,
+            62,
+            112,
+            188
+          ]
+        }
+      }
+    },
+    {
+      "scene": "credits",
+      "frame": 884,
+      "background": "drawings/credits/884_background.png",
+      "layers": {
+        "title": {
+          "png": "drawings/credits/884_title.png",
+          "box": [
+            264,
+            62,
+            112,
+            188
+          ]
+        }
+      }
+    },
+    {
+      "scene": "credits",
+      "frame": 895,
+      "background": "drawings/credits/895_background.png",
+      "layers": {
+        "title": {
+          "png": "drawings/credits/895_title.png",
+          "box": [
+            264,
+            62,
+            112,
+            188
+          ]
+        }
+      }
+    },
+    {
+      "scene": "credits",
+      "frame": 907,
+      "background": "drawings/credits/907_background.png",
+      "layers": {
+        "title": {
+          "png": "drawings/credits/907_title.png",
+          "box": [
+            264,
+            62,
+            112,
+            188
+          ]
+        }
+      }
+    },
+    {
+      "scene": "credits",
+      "frame": 918,
+      "background": "drawings/credits/918_background.png",
+      "layers": {
+        "title": {
+          "png": "drawings/credits/918_title.png",
+          "box": [
+            264,
+            62,
+            112,
+            188
+          ]
+        }
+      }
+    },
+    {
+      "scene": "credits",
+      "frame": 931,
+      "background": "drawings/credits/931_background.png",
+      "layers": {
+        "title": {
+          "png": "drawings/credits/931_title.png",
+          "box": [
+            264,
+            62,
+            112,
+            188
+          ]
+        }
+      }
+    },
+    {
+      "scene": "credits",
+      "frame": 942,
+      "background": "drawings/credits/942_background.png",
+      "layers": {
+        "title": {
+          "png": "drawings/credits/942_title.png",
+          "box": [
+            264,
+            62,
+            112,
+            188
+          ]
+        }
+      }
+    },
+    {
+      "scene": "credits",
+      "frame": 950,
+      "background": "drawings/credits/950_background.png",
+      "layers": {
+        "title": {
+          "png": "drawings/credits/950_title.png",
+          "box": [
+            264,
+            62,
+            112,
+            188
+          ]
+        }
+      }
+    },
+    {
+      "scene": "credits",
+      "frame": 957,
+      "background": "drawings/credits/957_background.png",
+      "layers": {
+        "title": {
+          "png": "drawings/credits/957_title.png",
+          "box": [
+            264,
+            62,
+            112,
+            188
+          ]
+        }
+      }
+    },
+    {
+      "scene": "credits",
+      "frame": 971,
+      "background": "drawings/credits/971_background.png",
+      "layers": {
+        "title": {
+          "png": "drawings/credits/971_title.png",
+          "box": [
+            264,
+            62,
+            112,
+            188
+          ]
+        }
+      }
+    },
+    {
+      "scene": "credits",
+      "frame": 978,
+      "background": "drawings/credits/978_background.png",
+      "layers": {
+        "title": {
+          "png": "drawings/credits/978_title.png",
+          "box": [
+            264,
+            62,
+            112,
+            188
+          ]
+        }
+      }
+    }
+  ]
+}
